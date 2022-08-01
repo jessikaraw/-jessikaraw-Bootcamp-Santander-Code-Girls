@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/93353985/182205971-d374865f-70bc-4e21-a5e5-d68ea7e47532.png)
 
 ### 🏋️‍ Desafios Básicos Java - Code Girls Santander
-  ->
+  -> https://github.com/jessikaraw/Bootcamp-Santander-Code-Girls-DIO/tree/main/pasta
   
 ### 🏋️‍🏋️‍ Desafios Intermediários Java - Code Girls Santander
   ->
