@@ -1,6 +1,6 @@
 # Bootcamp Santander Code Girls ✨
 ## Intermediário - 62 hrs - Jornada na trilha de Java. ☺ 
-![image](https://user-images.githubusercontent.com/93353985/182205971-d374865f-70bc-4e21-a5e5-d68ea7e47532.png)
+![image](https://user-images.githubusercontent.com/93353985/182892988-65c17453-8553-4e06-8cd9-a37fb4463368.png)
 
 ![image](https://user-images.githubusercontent.com/93353985/182634443-b45803f8-0841-4cd0-a3bc-ae12599fcfae.png)
 
