@@ -2,7 +2,7 @@
 ## Intermediário - 62 hrs - Jornada na trilha de Java. ☺ 
 ![image](https://user-images.githubusercontent.com/93353985/182892988-65c17453-8553-4e06-8cd9-a37fb4463368.png)
 
-![image](https://user-images.githubusercontent.com/93353985/182634443-b45803f8-0841-4cd0-a3bc-ae12599fcfae.png)
+![image](https://user-images.githubusercontent.com/93353985/183442845-4a75bd4c-071c-41d4-8c23-eb1e74972703.png)
 
 [Certificado](https://github.com/jessikaraw/Bootcamp-Santander-Code-Girls-DIO/files/9252291/82d5d6e1-27f4-4e96-b873-bbc62dc9096d.pdf)
 
